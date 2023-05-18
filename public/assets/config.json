@@ -1,5 +1,5 @@
 {
-    "defaultAvatar": 0,
-    "randomNouns": ["domagoj", "domba", "predavač"],
-    "randomAdjectives": ["lijep", "zgodan", "pametan"]
+  "defaultAvatar": 0,
+  "randomNouns": ["dog", "cat", "tree", "book", "table"],
+  "randomAdjectives": ["happy", "sad", "intelligent", "beautiful", "funny"]
 }
